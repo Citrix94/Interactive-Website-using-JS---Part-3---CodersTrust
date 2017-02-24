@@ -1,1 +1,1 @@
-Interactive-Website-using-JS---Part-1---CodersTrust
+Interactive-Website-using-JS---Part-3---CodersTrust
